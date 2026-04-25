@@ -1,0 +1,5 @@
+{
+  "name": "Industrial PPE Dashboard",
+  "description": "Professional PPE Safety Compliance Dashboard for Construction and Mining, using Computer Vision.",
+  "requestFramePermissions": ["camera"]
+}
